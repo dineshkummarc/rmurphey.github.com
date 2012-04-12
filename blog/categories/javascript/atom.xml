@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: javascript | Adventures in JavaScript Development]]></title>
-  <link href="http://rmurphey.github.com/blog/categories/javascript/atom.xml" rel="self"/>
-  <link href="http://rmurphey.github.com/"/>
-  <updated>2012-04-12T11:36:40-04:00</updated>
-  <id>http://rmurphey.github.com/</id>
+  <link href="http://rmurphey.com/blog/categories/javascript/atom.xml" rel="self"/>
+  <link href="http://rmurphey.com/"/>
+  <updated>2012-04-12T11:41:35-04:00</updated>
+  <id>http://rmurphey.com/</id>
   <author>
     <name><![CDATA[Rebecca Murphey]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Getting Better at JavaScript]]></title>
-    <link href="http://rmurphey.github.com/blog/2011/05/20/getting-better-at-javascript/"/>
+    <link href="http://rmurphey.com/blog/2011/05/20/getting-better-at-javascript/"/>
     <updated>2011-05-20T00:00:00-04:00</updated>
-    <id>http://rmurphey.github.com/blog/2011/05/20/getting-better-at-javascript</id>
+    <id>http://rmurphey.com/blog/2011/05/20/getting-better-at-javascript</id>
     <content type="html"><![CDATA[<p>I seem to be getting a lot of emails these days asking a deceptively simple
 question: “How do I get better at JavaScript?” What follows are some
 semi-random thoughts on the subject:</p>
@@ -119,9 +119,9 @@ them” paradigm of jQuery.</li>
   
   <entry>
     <title type="html"><![CDATA[Objects as Arguments: Where do you draw the line?]]></title>
-    <link href="http://rmurphey.github.com/blog/2011/04/25/objects-as-arguments/"/>
+    <link href="http://rmurphey.com/blog/2011/04/25/objects-as-arguments/"/>
     <updated>2011-04-25T11:16:00-04:00</updated>
-    <id>http://rmurphey.github.com/blog/2011/04/25/objects-as-arguments</id>
+    <id>http://rmurphey.com/blog/2011/04/25/objects-as-arguments</id>
     <content type="html"><![CDATA[<p>I was reviewing some code last week and came across a snippet that looked a lot like this:</p>
 
 <p><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
@@ -447,9 +447,9 @@ was.</p>
   
   <entry>
     <title type="html"><![CDATA[Modern JavaScript]]></title>
-    <link href="http://rmurphey.github.com/blog/2011/04/15/modern-javascript/"/>
+    <link href="http://rmurphey.com/blog/2011/04/15/modern-javascript/"/>
     <updated>2011-04-15T11:16:00-04:00</updated>
-    <id>http://rmurphey.github.com/blog/2011/04/15/modern-javascript</id>
+    <id>http://rmurphey.com/blog/2011/04/15/modern-javascript</id>
     <content type="html"><![CDATA[<p>My presentation <a href="http://www.slideshare.net/rmurphey/the-jquery-divide-5287573">the jQuery Divide</a> (<a href="http://jsconf.eu/2010/speaker/the_jquery_divide_by_rebecca_m.html">video here</a>) has been <a href="http://news.ycombinator.com/item?id=2429411">making the rounds</a> on the internet again, six months after I delivered it at JSConf.eu in Berlin, and this time around, a colleague on IRC shared a link with me that drew from it: <a href="http://www.dagolden.com/index.php/1446/is-javascript-the-new-perl/">Is JavaScript the New Perl?</a></p>
 
 <p>Perl has a special place in my heart; it's the first language I used to solve a real-world problem, and I still have the second edition Learning Perl that my good friend Marcus got for me at the time. These days I struggle for it not to look mostly like a lot of gibberish, but in the late 1990s it was funtimes.</p>
@@ -482,9 +482,9 @@ was.</p>
   
   <entry>
     <title type="html"><![CDATA[When you're building a non-trivial JS application ...]]></title>
-    <link href="http://rmurphey.github.com/blog/2011/03/30/when-you-re-building-a-non-trivial-js-application/"/>
+    <link href="http://rmurphey.com/blog/2011/03/30/when-you-re-building-a-non-trivial-js-application/"/>
     <updated>2011-03-30T00:00:00-04:00</updated>
-    <id>http://rmurphey.github.com/blog/2011/03/30/when-you-re-building-a-non-trivial-js-application</id>
+    <id>http://rmurphey.com/blog/2011/03/30/when-you-re-building-a-non-trivial-js-application</id>
     <content type="html"><![CDATA[<p>I sense another round of discussion of this is <a href="http://twitter.com/slightlylate/status/52924409509445632">about to begin</a>, and 140 characters isn't quite enough to say what I want to say, so:</p>
 
 
@@ -504,9 +504,9 @@ was.</p>
   
   <entry>
     <title type="html"><![CDATA[Patterns for DRY-er JavaScript]]></title>
-    <link href="http://rmurphey.github.com/blog/2010/07/12/patterns-for-dry-er-javascript/"/>
+    <link href="http://rmurphey.com/blog/2010/07/12/patterns-for-dry-er-javascript/"/>
     <updated>2010-07-12T00:00:00-04:00</updated>
-    <id>http://rmurphey.github.com/blog/2010/07/12/patterns-for-dry-er-javascript</id>
+    <id>http://rmurphey.com/blog/2010/07/12/patterns-for-dry-er-javascript</id>
     <content type="html"><![CDATA[<p>I came across a little code the other day that reminded me I've been meaning to write about JavaScript patterns I take for granted. The code in question was intended to set the value of some fields in a form when a checkbox was selected; when it was deselected, the same fields were to be emptied. It looked not unlike this:</p>
 
 

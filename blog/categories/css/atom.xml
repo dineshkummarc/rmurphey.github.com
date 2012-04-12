@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: css | Adventures in JavaScript Development]]></title>
-  <link href="http://rmurphey.github.com/blog/categories/css/atom.xml" rel="self"/>
-  <link href="http://rmurphey.github.com/"/>
-  <updated>2012-04-12T11:36:40-04:00</updated>
-  <id>http://rmurphey.github.com/</id>
+  <link href="http://rmurphey.com/blog/categories/css/atom.xml" rel="self"/>
+  <link href="http://rmurphey.com/"/>
+  <updated>2012-04-12T11:41:35-04:00</updated>
+  <id>http://rmurphey.com/</id>
   <author>
     <name><![CDATA[Rebecca Murphey]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Skipping Photoshop for web design]]></title>
-    <link href="http://rmurphey.github.com/blog/2008/06/06/skipping-photoshop-for-web-design/"/>
+    <link href="http://rmurphey.com/blog/2008/06/06/skipping-photoshop-for-web-design/"/>
     <updated>2008-06-06T00:00:00-04:00</updated>
-    <id>http://rmurphey.github.com/blog/2008/06/06/skipping-photoshop-for-web-design</id>
+    <id>http://rmurphey.com/blog/2008/06/06/skipping-photoshop-for-web-design</id>
     <content type="html"><![CDATA[<p>Occasionally the folks at 37signals write a blog post that seems to channel thoughts that I've just never put to paper [blog]. This week they did it twice, with <a href="http://www.37signals.com/svn/posts/1061-why-we-skip-photoshop">two</a> <a href="http://www.37signals.com/svn/posts/1066-web-designers-should-do-their-own-htmlcss">posts</a> about how they prefer to skip Photoshop and work with HTML and CSS when it comes to designing a web site.</p>
 
 <p>I've found it incredibly pleasant to work with designers who have demonstrated knowledge and skill when it comes to CSS and HTML -- at my last job, our lead designer was also the guy you went to if you were stumped by a CSS issue. Knowing the tools means that production considerations become an active part of the design process: you don't create an element without giving some thought to how it will be built. In the best of worlds, you weigh the cost of building the element -- in time, in HTTP requests, in excessive markup -- against the benefit of having it on the site, and make educated decisions about what is "worth it."</p>

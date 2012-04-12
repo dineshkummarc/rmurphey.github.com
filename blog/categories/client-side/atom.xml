@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: client-side | Adventures in JavaScript Development]]></title>
-  <link href="http://rmurphey.github.com/blog/categories/client-side/atom.xml" rel="self"/>
-  <link href="http://rmurphey.github.com/"/>
-  <updated>2012-04-12T11:36:40-04:00</updated>
-  <id>http://rmurphey.github.com/</id>
+  <link href="http://rmurphey.com/blog/categories/client-side/atom.xml" rel="self"/>
+  <link href="http://rmurphey.com/"/>
+  <updated>2012-04-12T11:41:35-04:00</updated>
+  <id>http://rmurphey.com/</id>
   <author>
     <name><![CDATA[Rebecca Murphey]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Thoughts on a (very) small project with Backbone and Backbone Boilerplate]]></title>
-    <link href="http://rmurphey.github.com/blog/2012/03/11/thoughts-on-a-very-small-project-with-backbone-and-backbone-boilerplate/"/>
+    <link href="http://rmurphey.com/blog/2012/03/11/thoughts-on-a-very-small-project-with-backbone-and-backbone-boilerplate/"/>
     <updated>2012-03-11T21:30:00-04:00</updated>
-    <id>http://rmurphey.github.com/blog/2012/03/11/thoughts-on-a-very-small-project-with-backbone-and-backbone-boilerplate</id>
+    <id>http://rmurphey.com/blog/2012/03/11/thoughts-on-a-very-small-project-with-backbone-and-backbone-boilerplate</id>
     <content type="html"><![CDATA[<p>I worked with <a href="http://documentcloud.github.com/backbone/">Backbone</a> and the
 <a href="https://github.com/tbranyen/backbone-boilerplate">Backbone Boilerplate</a> for
 the first time last weekend, putting together a small <a href="https://github.com/rmurphey/bvjs">demo app</a> for a presentation I gave last week at

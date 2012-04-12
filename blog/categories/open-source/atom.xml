@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: open-source | Adventures in JavaScript Development]]></title>
-  <link href="http://rmurphey.github.com/blog/categories/open-source/atom.xml" rel="self"/>
-  <link href="http://rmurphey.github.com/"/>
-  <updated>2012-04-12T11:36:40-04:00</updated>
-  <id>http://rmurphey.github.com/</id>
+  <link href="http://rmurphey.com/blog/categories/open-source/atom.xml" rel="self"/>
+  <link href="http://rmurphey.com/"/>
+  <updated>2012-04-12T11:41:35-04:00</updated>
+  <id>http://rmurphey.com/</id>
   <author>
     <name><![CDATA[Rebecca Murphey]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Bocoup]]></title>
-    <link href="http://rmurphey.github.com/blog/2012/03/26/bocoup/"/>
+    <link href="http://rmurphey.com/blog/2012/03/26/bocoup/"/>
     <updated>2012-03-26T10:00:00-04:00</updated>
-    <id>http://rmurphey.github.com/blog/2012/03/26/bocoup</id>
+    <id>http://rmurphey.com/blog/2012/03/26/bocoup</id>
     <content type="html"><![CDATA[<p><img src="/images/bocoup.png" alt="bocoup" /></p>
 
 <p>It wasn't so long ago that I was giving my first talk about JavaScript at the

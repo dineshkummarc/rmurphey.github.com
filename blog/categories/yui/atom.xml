@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: yui | Adventures in JavaScript Development]]></title>
-  <link href="http://rmurphey.github.com/blog/categories/yui/atom.xml" rel="self"/>
-  <link href="http://rmurphey.github.com/"/>
-  <updated>2012-04-12T11:36:40-04:00</updated>
-  <id>http://rmurphey.github.com/</id>
+  <link href="http://rmurphey.com/blog/categories/yui/atom.xml" rel="self"/>
+  <link href="http://rmurphey.com/"/>
+  <updated>2012-04-12T11:41:35-04:00</updated>
+  <id>http://rmurphey.com/</id>
   <author>
     <name><![CDATA[Rebecca Murphey]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Bye bye YUI bloat]]></title>
-    <link href="http://rmurphey.github.com/blog/2008/03/14/bye-bye-yui-bloat/"/>
+    <link href="http://rmurphey.com/blog/2008/03/14/bye-bye-yui-bloat/"/>
     <updated>2008-03-14T00:00:00-04:00</updated>
-    <id>http://rmurphey.github.com/blog/2008/03/14/bye-bye-yui-bloat</id>
+    <id>http://rmurphey.com/blog/2008/03/14/bye-bye-yui-bloat</id>
     <content type="html"><![CDATA[<p>I've been doing some serious work this week cutting down on YUI bloat -- our site was including the entire YUI library at the top of every page, at a cost of more than 200k. Worse, because the library was included at the top of every page, the rest of the page had to wait for it to load before it would render.</p>
 
 <p>First, I switched all of our AJAX to use jQuery, the library we've standardized on going forward -- the fact that we had a wrapper function for all of our AJAX calls made this pleasantly easy. Then, I went through the code and figured out which YUI components were being used where. Once that was done, I was able to roll up a few core YUI files into a file to be included in the global header, and call other components only as needed. Total savings: 170k. Holy crap.</p>

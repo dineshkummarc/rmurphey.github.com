@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: selectors | Adventures in JavaScript Development]]></title>
-  <link href="http://rmurphey.github.com/blog/categories/selectors/atom.xml" rel="self"/>
-  <link href="http://rmurphey.github.com/"/>
-  <updated>2012-04-12T11:36:40-04:00</updated>
-  <id>http://rmurphey.github.com/</id>
+  <link href="http://rmurphey.com/blog/categories/selectors/atom.xml" rel="self"/>
+  <link href="http://rmurphey.com/"/>
+  <updated>2012-04-12T11:41:35-04:00</updated>
+  <id>http://rmurphey.com/</id>
   <author>
     <name><![CDATA[Rebecca Murphey]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Avoid bare class selectors in jQuery]]></title>
-    <link href="http://rmurphey.github.com/blog/2008/12/05/avoid-bare-class-selectors-in-jquery/"/>
+    <link href="http://rmurphey.com/blog/2008/12/05/avoid-bare-class-selectors-in-jquery/"/>
     <updated>2008-12-05T00:00:00-05:00</updated>
-    <id>http://rmurphey.github.com/blog/2008/12/05/avoid-bare-class-selectors-in-jquery</id>
+    <id>http://rmurphey.com/blog/2008/12/05/avoid-bare-class-selectors-in-jquery</id>
     <content type="html"><![CDATA[<p>It just happened again: I was looking at someone else's jQuery and I came across something like this:</p>
 
 <p><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
@@ -50,9 +50,9 @@
   
   <entry>
     <title type="html"><![CDATA[More on jQuery selectors]]></title>
-    <link href="http://rmurphey.github.com/blog/2007/12/07/more-on-jquery-selectors/"/>
+    <link href="http://rmurphey.com/blog/2007/12/07/more-on-jquery-selectors/"/>
     <updated>2007-12-07T00:00:00-05:00</updated>
-    <id>http://rmurphey.github.com/blog/2007/12/07/more-on-jquery-selectors</id>
+    <id>http://rmurphey.com/blog/2007/12/07/more-on-jquery-selectors</id>
     <content type="html"><![CDATA[<p>Following up on my 13 seconds of selection hell:</p>
 
 <p><a href="http://benjaminsterling.com/jquery-what-are-the-fastest-selector/">jQuery: what are the fastest selectors?</a></p>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: thoughts | Adventures in JavaScript Development]]></title>
-  <link href="http://rmurphey.github.com/blog/categories/thoughts/atom.xml" rel="self"/>
-  <link href="http://rmurphey.github.com/"/>
-  <updated>2012-04-12T11:36:40-04:00</updated>
-  <id>http://rmurphey.github.com/</id>
+  <link href="http://rmurphey.com/blog/categories/thoughts/atom.xml" rel="self"/>
+  <link href="http://rmurphey.com/"/>
+  <updated>2012-04-12T11:41:35-04:00</updated>
+  <id>http://rmurphey.com/</id>
   <author>
     <name><![CDATA[Rebecca Murphey]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[I need to say a few things.]]></title>
-    <link href="http://rmurphey.github.com/blog/2010/07/27/i-need-to-say-a-few-things/"/>
+    <link href="http://rmurphey.com/blog/2010/07/27/i-need-to-say-a-few-things/"/>
     <updated>2010-07-27T00:00:00-04:00</updated>
-    <id>http://rmurphey.github.com/blog/2010/07/27/i-need-to-say-a-few-things</id>
+    <id>http://rmurphey.com/blog/2010/07/27/i-need-to-say-a-few-things</id>
     <content type="html"><![CDATA[<p>Over the weekend, there was a tweet announcing that Google was going to provide "scholarships" to qualified women to attend JSConf.eu. There was then a tweet by another person calling this "disgusting" and "illegal." Nicole Sullivan has a <a href="http://www.stubbornella.org/content/2010/07/26/woman-in-technology/">level-headed and well-articulated roundup</a> of the back-and-forth and some of the surrounding issues, and I suggest you read it.</p>
 
 
@@ -50,9 +50,9 @@
   
   <entry>
     <title type="html"><![CDATA[Lessons Learned from Taking On a Project in Crisis ]]></title>
-    <link href="http://rmurphey.github.com/blog/2010/04/03/lessons-learned-from-taking-on-a-project-in-crisis/"/>
+    <link href="http://rmurphey.com/blog/2010/04/03/lessons-learned-from-taking-on-a-project-in-crisis/"/>
     <updated>2010-04-03T00:00:00-04:00</updated>
-    <id>http://rmurphey.github.com/blog/2010/04/03/lessons-learned-from-taking-on-a-project-in-crisis</id>
+    <id>http://rmurphey.com/blog/2010/04/03/lessons-learned-from-taking-on-a-project-in-crisis</id>
     <content type="html"><![CDATA[<p>I just got done with an emergency project for an agency developing a public-facing application for a mutinational technology client you've most certainly heard of. I developed the entire front-end -- HTML, CSS, and JavaScript -- for a non-trivial application with a limited spec in just seven days. The experience was so eye-opening that I feel the need to write down some of the things I've learned, in hopes that I can benefit from my experience in the future.</p>
 
 
@@ -80,9 +80,9 @@
   
   <entry>
     <title type="html"><![CDATA[On speaking at the 2009 jQuery Conference]]></title>
-    <link href="http://rmurphey.github.com/blog/2009/09/16/on-speaking-at-the-2009-jquery-conference/"/>
+    <link href="http://rmurphey.com/blog/2009/09/16/on-speaking-at-the-2009-jquery-conference/"/>
     <updated>2009-09-16T00:00:00-04:00</updated>
-    <id>http://rmurphey.github.com/blog/2009/09/16/on-speaking-at-the-2009-jquery-conference</id>
+    <id>http://rmurphey.com/blog/2009/09/16/on-speaking-at-the-2009-jquery-conference</id>
     <content type="html"><![CDATA[<p>One of my personal goals for this year was to start being part of the solution to the dearth of female speakers at tech events. Though I&rsquo;ve talked at a couple of smallish local events over the past few months, this past weekend I got to do it in a big way: I presented a talk on using objects to organize your jQuery code to an audience of around 100 people, more by far than I&rsquo;ve ever spoken to before.</p>
 
 
@@ -120,9 +120,9 @@
   
   <entry>
     <title type="html"><![CDATA[On gaining respect as a front-end developer]]></title>
-    <link href="http://rmurphey.github.com/blog/2009/04/13/on-gaining-respect-as-a-front-end-developer/"/>
+    <link href="http://rmurphey.com/blog/2009/04/13/on-gaining-respect-as-a-front-end-developer/"/>
     <updated>2009-04-13T00:00:00-04:00</updated>
-    <id>http://rmurphey.github.com/blog/2009/04/13/on-gaining-respect-as-a-front-end-developer</id>
+    <id>http://rmurphey.com/blog/2009/04/13/on-gaining-respect-as-a-front-end-developer</id>
     <content type="html"><![CDATA[<p>Someone wrote me today:</p>
 
 <blockquote class="posterous_medium_quote">Where I work, design is highly valued with the leader of that group being our Creative Director, back end programmers are also highly valued, but front end ... not so much. Partly I think its that I don't toot my horn but I know there are other reasons. At times, my bosses haven't even understood what it is that I do. Back end programmers look down on front end assuming that its trivial or something that should be relegated to compilers.
@@ -148,9 +148,9 @@ I was wondering if this is a common thing or more so something that is happening
   
   <entry>
     <title type="html"><![CDATA[Salivating over server-side Javascript]]></title>
-    <link href="http://rmurphey.github.com/blog/2008/01/04/salivating-over-server-side-javascript/"/>
+    <link href="http://rmurphey.com/blog/2008/01/04/salivating-over-server-side-javascript/"/>
     <updated>2008-01-04T00:00:00-05:00</updated>
-    <id>http://rmurphey.github.com/blog/2008/01/04/salivating-over-server-side-javascript</id>
+    <id>http://rmurphey.com/blog/2008/01/04/salivating-over-server-side-javascript</id>
     <content type="html"><![CDATA[<p>I came across <a href="http://unclescript.blogspot.com/2008/01/end-of-web-frameworks.html">The End of Web Frameworks</a> in my dzone RSS feed this morning, and it echoes a thought that runs through my brain as I get more and more comfortable with jQuery: who needs the server when you've got Javascript? Wouldn't it be great if the server just handed out data, and the client figured out what to do with it? After talking directly to the DOM for the last several months, a trip back to PHP left me utterly disoriented for a few minutes -- why, exactly, couldn't I take the anchors from that unordered list I'd just built 50 lines ago and reuse their hrefs for something else?</p>
 
 <p>As a <a href="http://unclescript.blogspot.com/2008/01/end-of-web-frameworks.html#c8132224153158413680">couple</a> of <a href="http://unclescript.blogspot.com/2008/01/end-of-web-frameworks.html#c5149909265291802708">commenters</a> pointed out, it's not that easy -- there's still graceful degradation (the yin to progressive enhancement's yang?) to worry about. It's easy to say "oh, I don't have to worry about that," but until the day that's actually <em>true</em>, Javascript on the client side simply can only supplement good, solid, server-generated markup.</p>
